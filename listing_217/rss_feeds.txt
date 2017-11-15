@@ -1,0 +1,6 @@
+http://www.sltrib.com/rss/feed/?sec=/News/Utah/&level=1
+http://www.deseretnews.com/site/rss
+http://www.ksl.com/xml/148.rss
+http://www.utah.gov/whatsnew/rss.xml
+http://rssfeeds.thespectrum.com/stgeorge/news
+http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/utah/index.html?inline=nyt-geo&rss=1
