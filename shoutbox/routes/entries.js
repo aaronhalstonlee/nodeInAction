@@ -24,7 +24,7 @@ exports.submit = (req, res, next) => {
         title: data.title,
         body: data.body
     });
-    Entry.save((err) => {
+    entry.save((err) => {
         if (err) return next(err);
         res.redirect('/');
     });
